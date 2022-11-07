@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1486728920 source:d:\zdocuments\codeblocks\codeblocks project\smart bazzar\main.cpp
+	<stdio.h>
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<math.h>
+
+1546005233 source:d:\books\documents\codeblocks\codeblocks project\c++ projects\smart bazzar\main.cpp
+	<math.h>
+	<stdio.h>
+	<iomanip>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
